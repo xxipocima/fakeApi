@@ -3,10 +3,9 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "projects":[
+  "projects": [
     { "id": 1, "status": "in_progress", "progress": 6 },
-    { "id": 2, "status": "in_progress", "progress": 60 },
-    { "id": 3, "status": "ready", "progress": 100 },
+    { "id": 2, "status": "ready", "progress": 100 }
   ],
   "profile": {
     "name": "typicode"
