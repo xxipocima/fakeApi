@@ -1,9 +1,6 @@
 {
   "projects": [
     { "id": 1, "name": "project 1", "model": "project 1", "model_file": "project 1", "test_file": "project 1", "version": "project 1", "status": "in_progress", "progress": 50 },
-    { "id": 2, "name": "project 2", "model": "project 1", "model_file": "project 1", "test_file": "project 1", "version": "project 1", "status": "in_progress", "progress": 10 },
-    { "id": 3, "name": "project 3", "model": "project 1", "model_file": "project 1", "test_file": "project 1", "version": "project 1", "status": "in_progress", "progress": 25 },
-    { "id": 4, "name": "project 4", "model": "project 1", "model_file": "project 1", "test_file": "project 1", "version": "project 1", "status": "ready", "progress": 100 },
   ],
   "results": [
     { "id": 1, "environment": "Onnx", "inference_duration": "5.543 sec.", "accuracy": "78%" },
