@@ -1,6 +1,6 @@
 {
   "projects": [
-    { "id": 1, "name": "project 1", "model": "project 1", "model_file": "project 1" },
+    { "id": 1, "name": "project 1", "model": "project 1" },
   ],
   "results": [
     { "id": 1, "environment": "Onnx", "inference_duration": "5.543 sec.", "accuracy": "78%" },
