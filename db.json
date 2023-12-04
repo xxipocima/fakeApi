@@ -3,9 +3,7 @@
     { "id": 1, "name": "project 1", "model": "project 1" },
   ],
   "results": [
-    { "id": 1, "environment": "Onnx", "inference_duration": "5.543 sec.", "accuracy": "78%" },
-    { "id": 2, "environment": "Quantized", "inference_duration": "4.543 sec.", "accuracy": "69%" },
-    { "id": 3, "environment": "TVM Hardware", "inference_duration": "3.543 sec.", "accuracy": "81%" },
+    { "id": 1, "environment": "Onnx" },
   ],
   "profile": {
     "name": "typicode"
