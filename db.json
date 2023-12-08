@@ -3,9 +3,9 @@
     { "id": 1, "environment": "Onnx", "inferenceDuration": "5.543 sec.", "accuracy": "78%", "projectId": 1 },
     { "id": 2, "environment": "Quantized", "inferenceDuration": "4.345 sec.", "accuracy": "66%", "projectId": 1 },
     { "id": 3, "environment": "TVM Hardware", "inferenceDuration": "3.874 sec.", "accuracy": "91%", "projectId": 1 },
-    { "id": 4, "environment": "Onnx", "inferenceDuration": "5.543 sec.", "accuracy": "61%", "projectId": 2 },
-    { "id": 5, "environment": "Quantized", "inferenceDuration": "4.345 sec.", "accuracy": "59%", "projectId": 2 },
-    { "id": 6, "environment": "TVM Hardware", "inferenceDuration": "3.874 sec.", "accuracy": "87%", "projectId": 2 }
+    { "id": 4, "environment": "Onnx", "inferenceDuration": "5.543 sec.", "accuracy": "61%", "projectId": 3 },
+    { "id": 5, "environment": "Quantized", "inferenceDuration": "4.345 sec.", "accuracy": "59%", "projectId": 3 },
+    { "id": 6, "environment": "TVM Hardware", "inferenceDuration": "3.874 sec.", "accuracy": "87%", "projectId": 3 }
   ],
   "projects": [ 
     { "id": 1, "name": "Computer Vision 1", "model": "ResNet", "modelFile": "resnet.zip", "testFile": "ResNet-image.png", "version": 1, "created_at": "2023-12-02", "status": "ready", "progress": 100 },
